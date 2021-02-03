@@ -1,0 +1,49 @@
+body {
+  overflow-x: hidden;
+}
+
+.gray-div{
+  background-color: #e1e1e1;
+}
+
+.indent p{
+  position: relative;
+  margin-left: 20px;
+}
+
+.image-size-standart{
+  padding: 20px;
+  width: 500px;
+  height: auto;
+}
+
+.image-size-article{
+  margin: auto;
+  padding: 20px;
+  width: 700px;
+  height: auto;
+}
+
+.alone-link{
+  color: #000000;
+  text-decoration: none;
+}
+
+.padding-20{
+  padding: 20px;
+}
+
+.clearfix {
+  overflow: auto;
+}
+
+.pos-inline {
+  padding: 20px;
+  vertical-align: top;
+}
+
+.absolute{
+  position: absolute;
+  right: 2%;
+  top: 0.5%;
+}
